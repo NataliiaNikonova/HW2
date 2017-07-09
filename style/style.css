@@ -1,0 +1,111 @@
+body{
+	/*background: blue;*/
+}
+
+.wrapper {
+	width: 900px;
+	margin: 0 auto; 
+}
+
+.part_2 {
+	width: 335px;
+}
+
+.part_2 h2 {
+	width: 100px;
+	height: 27px;
+	background: red;
+}
+
+.part_2-first {
+	width: 300px;
+	height: 48px;
+	background: blue;
+	font-size: 14px;
+}
+
+.part_2-second {
+	width: 300px;
+	height: 39px;
+	background: yellow;
+	font-size: 14px;
+}
+
+.one {
+	width: 50px;
+	height: 38px;
+	background: red;
+}
+
+.two {
+	width: 100px;
+	height: 38px;
+	background: orange;
+}
+
+.three {
+	width: 150px;
+	height: 38px;
+	background: blue;
+}
+
+.joy {
+	width: 300px;
+	height: 110px;
+	line-height: 110px;
+	background: orange;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 40px;
+}
+
+.part_5 {
+	width: 480px;
+	height: 190px;
+	background: #d6d7be;
+}
+
+.part_5 h1 {
+	color: #532601;
+}
+
+.part_5 h3 {
+	color: #875327;
+}
+.part_5 a {
+	color: #285501;
+}
+
+.part_6 {
+	width: 430px;
+	height: 95px;
+	margin-top: 10px;
+	padding-left: 5px;
+	border-style: dashed; 
+}
+
+.part_6 sup, .part_6 sub {
+	font-style: italic;
+}
+
+.part_7 {
+	width: 420px;
+	height: 125px;
+	margin-top: 30px;
+	padding-left: 5px;
+	border-style: dashed; 
+}
+
+.part_7 span, .last{
+	font-style: italic;
+}
+
+.part_7 sub {
+	color: blue;
+	font-style: normal;
+}
+
+.part_7 sup {
+	color: red;
+	font-style: normal;
+}
